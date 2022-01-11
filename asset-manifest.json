@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/db_kursach-front/static/css/main.87896336.css",
-    "main.js": "/db_kursach-front/static/js/main.8c87fb3a.js",
+    "main.js": "/db_kursach-front/static/js/main.6a94c1f7.js",
     "static/media/primeicons.svg": "/db_kursach-front/static/media/primeicons.c6e2053303524e39530c.svg",
     "static/media/Inter-Bold.woff": "/db_kursach-front/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
     "static/media/Inter-SemiBold.woff": "/db_kursach-front/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
@@ -18,10 +18,10 @@
     "static/media/primeicons.ttf": "/db_kursach-front/static/media/primeicons.91bacab1f083f2795272.ttf",
     "index.html": "/db_kursach-front/index.html",
     "main.87896336.css.map": "/db_kursach-front/static/css/main.87896336.css.map",
-    "main.8c87fb3a.js.map": "/db_kursach-front/static/js/main.8c87fb3a.js.map"
+    "main.6a94c1f7.js.map": "/db_kursach-front/static/js/main.6a94c1f7.js.map"
   },
   "entrypoints": [
     "static/css/main.87896336.css",
-    "static/js/main.8c87fb3a.js"
+    "static/js/main.6a94c1f7.js"
   ]
 }
