@@ -8,7 +8,7 @@ class App extends Component {
 
         this.state = {
             sats: [],
-            serverURL : "http://localhost:8080/api/sat/",
+            serverURL : "https://db-kursach.herokuapp.com/api/sat/",
             loadingSats: true,
             newSatNorad: null,
             satInputLoading: false,
